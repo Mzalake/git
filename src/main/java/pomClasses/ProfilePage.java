@@ -40,7 +40,7 @@ WebDriver driver;
 	//private By element = By.xpath("//div[@class='_1QhEVk']");
 	
 	
-	
+	//constructor
 	public ProfilePage(WebDriver driver) {
 		
 		PageFactory.initElements(driver, this);
